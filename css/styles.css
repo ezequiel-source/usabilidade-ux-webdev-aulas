@@ -15,3 +15,8 @@ p.promocao {
 .nova {
     color: white;
 }
+
+p.final-pagina#rodape {
+    background-color: lightgray;
+    text-align: center;
+}
