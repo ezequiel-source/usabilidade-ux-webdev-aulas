@@ -20,3 +20,12 @@ p.final-pagina#rodape {
     background-color: lightgray;
     text-align: center;
 }
+
+.curso {
+    background-color: aliceblue;
+}
+
+.novo-curso {
+    background-color: aliceblue;
+    color: red;
+}
