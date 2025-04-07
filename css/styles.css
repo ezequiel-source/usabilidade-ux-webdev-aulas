@@ -21,11 +21,12 @@ p.final-pagina#rodape {
     text-align: center;
 }
 
-.curso {
+/* separamos os seletores usando uma vírgula. Ela faz um papel de "ou lógico" */
+.curso, .novo-curso {
     background-color: aliceblue;
 }
 
+/* agora não precisamos mais repetir a cor de fundo*/
 .novo-curso {
-    background-color: aliceblue;
     color: red;
 }
